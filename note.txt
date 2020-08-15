@@ -3,3 +3,8 @@ git learn:
 2.git commit -m "xxx"
 `git status
 `git diff
+
+`git log
+`git relog
+`git reset --hard HEAD^
+ git reset --hard xxxxx

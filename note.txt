@@ -13,3 +13,5 @@ git learn:
 `git reset HEAD file
 
 `git rm
+
+`git push origin master

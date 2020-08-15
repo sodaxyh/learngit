@@ -8,3 +8,6 @@ git learn:
 `git relog
 `git reset --hard HEAD^
  git reset --hard xxxxx
+
+`git checkout -- file
+`git reset HEAD file
